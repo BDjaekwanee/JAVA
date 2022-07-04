@@ -1,7 +1,7 @@
 import java.util.*;
 
 class FlowEx28 {
-	public void main (String[] args) {
+	public static void main (String[] args) {
 		int input = 0, answer = 0;
 		
 		answer = (int)(Math.random() * 100) + 1; //1~100사이의 임의의 수를 저장
